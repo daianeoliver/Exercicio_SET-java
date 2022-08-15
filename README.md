@@ -1,4 +1,4 @@
-# Exercicio_SET-java
+# Exercicios de fixação SET - Java
 
 ## Exercício ArcoIris
 Exercício proposto em Bootcamp Dio, para praticar utilização de HashSet, LinkedHashSet e TreeSet
